@@ -25,12 +25,12 @@ This script takes two numbers from the user and performs:
 **Python File:** `Assignment 1 - Task 1.py`
 
 ### 🖥️ Sample Output:
-enter first number: 10
-enter second number: 5
-addition : 15
-subtraction : 5
-multiplication : 50
-division : 2.0
+enter first number: 10.
+enter second number: 5.
+addition : 15.
+subtraction : 5.
+multiplication : 50.
+division : 2.0.
 
 ---
 
