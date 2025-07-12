@@ -18,3 +18,26 @@ Write a Python program that does the following:
 3. Prints a personalized greeting message using the full name.
    
   ![Task 1 Output](Images/Assignment_1_Task_2.png)
+
+  #  Assignment 2 Module 3 - Control Structures in Python
+
+###  **Task 1:** Perform basic mathematical operations  
+`Assignment 2 - Task 1.py`
+-    Problem Statement:
+Write a Python program that does the following:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+   
+![Task 1 Output](Images/Assignment_2_Task_1.png)
+
+###  **Task 2:** Create a personalized greeting message 
+`Assignment 2 - Task 2.py`
+-   Problem Statement:
+Write a Python program that does the following:
+1.   Uses a for loop to iterate over numbers from 1 to 50.
+2.   Calculates the sum of all integers in this range.
+3.   Displays the final sum.
+
+  ![Task 1 Output](Images/Assignment_2_Task_2.png)
+
