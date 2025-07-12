@@ -59,9 +59,9 @@ Write a Python program that does the following:
 Write a Python program that does the following:
 1.   Asks the user for a number as input.
 2.   Uses the math module to calculate the:
-o   Square root of the number
-o   Natural logarithm (log base e) of the number
-o   Sine of the number (in radians)
+-   Square root of the number
+-   Natural logarithm (log base e) of the number
+-   Sine of the number (in radians)
 3.   Displays the calculated results.
 
   ![Task 2 Output](Images/Assignment_3_Task_2.png)
