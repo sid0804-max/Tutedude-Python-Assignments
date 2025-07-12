@@ -1,4 +1,3 @@
-# 🐍 Basic Python Programs – Task 1 & Task 2
 
 ## Task 1: Perform Basic Mathematical Operations
 Problem Statement: Write a Python program that does the following:
@@ -13,7 +12,7 @@ This script takes two numbers from the user and performs:
 - ✖️ Multiplication  
 - ➗ Division
 
-**Python File:** `task1.py`
+**Python File:** `Assignment 1 - Task 1.py`
 
 **Sample Output:**
 enter first number: 10
@@ -32,8 +31,10 @@ Problem Statement: Write a Python program that does the following:
 **Description:**
 This script asks the user to enter their first and last names, then prints a personalized welcome message.
 
-**Python File:** `task2.py`
+**Python File:** `Assignment 1 - Task 2.py`
 
 enter your first name: Alice
+
 enter your second name: Smith
+
 Hello Alice Smith! Welcome to the Python program.
