@@ -1,7 +1,7 @@
 #  Assignment 1 – Module 2 - Basic Python Concepts
 This repository contains two simple Python scripts for Assignment 1:
 
-###  **Task 1:** Perform basic mathematical operations
+###  **Task 1:** Perform basic mathematical operations 'Assignment 1 - Task 1.py'
 -    Problem Statement:
 Write a Python program that does the following:
 1. Takes two numbers as input from the user.
@@ -9,7 +9,7 @@ Write a Python program that does the following:
    
 ![Task 1 Output](Images/Assignment_1_Task_1.png)
 
-###  **Task 2:** Create a personalized greeting message
+###  **Task 2:** Create a personalized greeting message 'Assignment 1 - Task 2.py'
 -   Problem Statement:
 Write a Python program that does the following:
 1. Takes a user's first name and last name as input.
