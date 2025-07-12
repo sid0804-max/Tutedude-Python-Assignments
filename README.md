@@ -1,5 +1,4 @@
 #  Assignment 1 – Module 2 - Basic Python Concepts
-This repository contains two simple Python scripts for Assignment 1:
 
 ###  **Task 1:** Perform basic mathematical operations  
 `Assignment 1 - Task 1.py`
