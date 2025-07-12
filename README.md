@@ -1,1 +1,1 @@
-![Task 1 Output](Images/Assignment 1 - Task 1 (output).png)
+![Task 1 Output](Images/Assignment_1_Task_1.png)
