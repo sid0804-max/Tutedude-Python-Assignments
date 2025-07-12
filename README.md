@@ -17,7 +17,7 @@ Write a Python program that does the following:
 2. Concatenates the first name and last name into a full name.
 3. Prints a personalized greeting message using the full name.
    
-  ![Task 1 Output](Images/Assignment_1_Task_2.png)
+  ![Task 2 Output](Images/Assignment_1_Task_2.png)
 
   #  Assignment 2 – Module 3 - Control Structures in Python
 
@@ -39,5 +39,31 @@ Write a Python program that does the following:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
 
-  ![Task 1 Output](Images/assignment_2_Task_2.png)
+  ![Task 2 Output](Images/assignment_2_Task_2.png)
+
+  #  Assignment 3 – Module 4 - Functions & Modules in Python
+
+###  **Task 1:** Calculate Factorial Using a Function 
+`Assignment 3 - Task 1.py`
+-    Problem Statement:
+Write a Python program that does the following:
+1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+2.   Returns the calculated factorial.
+3.   Calls the function with a sample number and prints the output.
+   
+![Task 1 Output](Images/Assignment_3_Task_1.png)
+
+###  **Task 2:** Using the Math Module for Calculations
+`Assignment 3 - Task 2.py`
+-   Problem Statement:
+Write a Python program that does the following:
+1.   Asks the user for a number as input.
+2.   Uses the math module to calculate the:
+o   Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
+3.   Displays the calculated results.
+
+  ![Task 2 Output](Images/Assignment_3_Task_2.png)
+
 
