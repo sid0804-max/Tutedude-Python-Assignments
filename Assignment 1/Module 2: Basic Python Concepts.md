@@ -16,10 +16,15 @@ This script takes two numbers from the user and performs:
 
 **Sample Output:**
 enter first number: 10
+
 enter second number: 5
+
 addition : 15
+
 subtraction : 5
+
 multiplication : 50
+
 division : 2.0
 
 ## Task 2: Create a Personalized Greeting
