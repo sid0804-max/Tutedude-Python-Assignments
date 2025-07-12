@@ -19,7 +19,7 @@ Write a Python program that does the following:
    
   ![Task 1 Output](Images/Assignment_1_Task_2.png)
 
-  #  Assignment 2 Module 3 - Control Structures in Python
+  #  Assignment 2 – Module 3 - Control Structures in Python
 
 ###  **Task 1:** Perform basic mathematical operations  
 `Assignment 2 - Task 1.py`
