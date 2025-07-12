@@ -21,7 +21,7 @@ Write a Python program that does the following:
 
   #  Assignment 2 – Module 3 - Control Structures in Python
 
-###  **Task 1:** Perform basic mathematical operations  
+###  **Task 1:** Check if a Number is Even or Odd 
 `Assignment 2 - Task 1.py`
 -    Problem Statement:
 Write a Python program that does the following:
@@ -31,7 +31,7 @@ Write a Python program that does the following:
    
 ![Task 1 Output](Images/assignment_2_Task_1.png)
 
-###  **Task 2:** Create a personalized greeting message 
+###  **Task 2:** Sum of Integers from 1 to 50 Using a Loop 
 `Assignment 2 - Task 2.py`
 -   Problem Statement:
 Write a Python program that does the following:
