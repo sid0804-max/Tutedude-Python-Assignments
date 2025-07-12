@@ -1,4 +1,4 @@
-# 🐍 Assignment 1 – Basic Python Programs
+# Assignment 1 – Basic Python Concepts
 
 This repository contains two simple Python scripts for Assignment 1:
 
@@ -25,12 +25,12 @@ This script takes two numbers from the user and performs:
 **Python File:** `Assignment 1 - Task 1.py`
 
 ### 🖥️ Sample Output:
-enter first number: 10.
-enter second number: 5.
-addition : 15.
-subtraction : 5.
-multiplication : 50.
-division : 2.0.
+-enter first number: 10
+-enter second number: 5
+-addition : 15
+-subtraction : 5
+-multiplication : 50
+-division : 2.0
 
 ---
 
@@ -48,8 +48,8 @@ This script asks the user to enter their first and last names, then prints a per
 **Python File:** `Assignment 1 - Task 2.py`
 
 ### 🖥️ Sample Output:
-enter your first name: Alice
-enter your second name: Smith
-Hello Alice Smith! Welcome to the Python program.
+-enter your first name: Alice
+-enter your second name: Smith
+-Hello Alice Smith! Welcome to the Python program.
 
 ---
