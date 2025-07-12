@@ -29,7 +29,7 @@ Write a Python program that does the following:
 2. 	Checks whether the number is even or odd using an if-else statement.
 3. 	Displays the result accordingly.
    
-![Task 1 Output](Images/Assignment_2_Task_1.png)
+![Task 1 Output](Images/Assignment__Task_1.png)
 
 ###  **Task 2:** Create a personalized greeting message 
 `Assignment 2 - Task 2.py`
@@ -39,5 +39,5 @@ Write a Python program that does the following:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.
 
-  ![Task 1 Output](Images/Assignment_2_Task_2.png)
+  ![Task 1 Output](Images/Assignment__Task_2.png)
 
