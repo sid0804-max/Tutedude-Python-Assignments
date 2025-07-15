@@ -81,7 +81,8 @@ Write a Python program that does the following:
 #### You can check the text file in Output folder 
 `Task 1 : sample.txt`
 
-###  **Task 2:** Using the Math Module for Calculations
+
+###  **Task 2:** Write and Append Data to a File
 `Assignment 4 - Task 2.py`
 -   Problem Statement:
 Write a Python program that does the following:
