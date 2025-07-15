@@ -20,4 +20,4 @@ Write a Python program that does the following:
 3.   Reads and displays the final content of the file.
 
 
-  ![Task 2 Output](Images/Assignment_4_Task_2.png)
+  ![Task 2 Output](Assignment_4_Task_2.png)
