@@ -92,6 +92,6 @@ Write a Python program that does the following:
 
 ## 📁 Output Files
 
-You can check the sample output [here](output/sample.txt).
+You can check the sample output [here](Output/sample.txt).
 
 
