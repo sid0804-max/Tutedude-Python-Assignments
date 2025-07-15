@@ -78,6 +78,8 @@ Write a Python program that does the following:
    
 ![Task 1 Output](Images/Assignment_4_Task_1.1.png)
 ![Task 1 Output](Images/Assignment_4_Task_1.2.png)
+#### You can check the text file in Output folder 
+`Task 1 : sample.txt`
 
 ###  **Task 2:** Using the Math Module for Calculations
 `Assignment 4 - Task 2.py`
@@ -87,11 +89,9 @@ Write a Python program that does the following:
 2.   Appends additional data to the same file.
 3.   Reads and displays the final content of the file.
 
-
   ![Task 2 Output](Images/Assignment_4_Task_2.png)
+#### You can check the text files in Output folder 
+`Task 2 : output.txt`
 
-## 📁 Output Files
-
-You can check the sample output [here](Output/sample.txt).
 
 
