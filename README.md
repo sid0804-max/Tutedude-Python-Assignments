@@ -90,4 +90,8 @@ Write a Python program that does the following:
 
   ![Task 2 Output](Images/Assignment_4_Task_2.png)
 
+## 📁 Output Files
+
+You can check the sample output [here](output/sample.txt).
+
 
